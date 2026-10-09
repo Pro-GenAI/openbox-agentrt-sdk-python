@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.venv/
+
+# Generated agent output (created at runtime by content_writer.py)
+blogs/
+linkedin/
+tweets/
+research/
